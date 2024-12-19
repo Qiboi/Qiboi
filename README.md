@@ -70,7 +70,7 @@ Here are some ideas to get you started:
 
 ### **Fun Animation**
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=500&color=FF61C7&center=true&vCenter=true&width=435&lines=Hello+World!+I'm+a+Full+Stack+Developer;Passionate+Problem+Solver;Always+Learning+New+Tech)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=500&color=FF61C7&center=true&vCenter=true&width=435&lines=I'm+a+Full+Stack+Developer;Passionate+Problem+Solver;Always+Learning+New+Tech)
 
 ---
 
