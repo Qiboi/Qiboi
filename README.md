@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hi there, I'm **QIboi** 👋
+## Hi there, I'm **Qiboi** 👋
 
 ### *Full Stack Developer | Problem Solver | Lifelong Learner*
 
@@ -52,8 +52,9 @@ Here are some ideas to get you started:
 ### **Connect With Me**
 <!-- - [Portfolio](https://yourportfolio.com) -->
 - [LinkedIn](https://linkedin.com/in/mrazhar)
-<!-- - [Twitter](https://twitter.com/yourhandle) -->>
+<!-- - [Twitter](https://twitter.com/yourhandle) -->
 - [Email](mailto:mrazhar.work@outlook.com)
+- [Instagram](https://www.instagram.com/arifqiboi)
 
 ---
 
