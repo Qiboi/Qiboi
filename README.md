@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" width="50%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical" alt="GitHub Streak" width="50%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Qiboi&show_icons=true&theme=radical" alt="GitHub Stats" width="50%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Qiboi&theme=radical" alt="GitHub Streak" width="50%"/>
 </div>
 
 ---
@@ -50,20 +50,20 @@ Here are some ideas to get you started:
 ---
 
 ### **Connect With Me**
-- [Portfolio](https://yourportfolio.com)
-- [LinkedIn](https://linkedin.com/in/yourprofile)
-- [Twitter](https://twitter.com/yourhandle)
-- [Email](mailto:your-email@example.com)
+<!-- - [Portfolio](https://yourportfolio.com) -->
+- [LinkedIn](https://linkedin.com/in/mrazhar)
+<!-- - [Twitter](https://twitter.com/yourhandle) -->>
+- [Email](mailto:mrazhar.work@outlook.com)
 
 ---
 
 ### **Dynamic Components**
 
 #### **Top Languages**
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Qiboi&layout=compact&theme=radical)
 
 #### **Visitor Counter**
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=YOUR_GITHUB_USERNAME.YOUR_GITHUB_USERNAME)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Qiboi.Qiboi)
 
 ---
 
@@ -73,7 +73,4 @@ Here are some ideas to get you started:
 
 ---
 
-*Note: Replace `YOUR_GITHUB_USERNAME`, `yourportfolio.com`, `yourprofile`, `yourhandle`, and `your-email@example.com` with your actual details.*
-
-This README reflects the futuristic, vibrant theme of your profile image and incorporates professional yet dynamic elements that align with your identity as a full-stack developer!
 
