@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **Qiboi/Qiboi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,68 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Hi there, I'm **QIboi** 👋
+
+### *Full Stack Developer | Problem Solver | Lifelong Learner*
+
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" width="50%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical" alt="GitHub Streak" width="50%"/>
+</div>
+
+---
+
+### **Tech Stack**
+
+#### **Languages**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+#### **Frameworks**
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
+
+---
+
+### **Philosophy**
+> "Code is like humor. When you have to explain it, it’s bad." — Cory House
+
+---
+
+### **Connect With Me**
+- [Portfolio](https://yourportfolio.com)
+- [LinkedIn](https://linkedin.com/in/yourprofile)
+- [Twitter](https://twitter.com/yourhandle)
+- [Email](mailto:your-email@example.com)
+
+---
+
+### **Dynamic Components**
+
+#### **Top Languages**
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
+
+#### **Visitor Counter**
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=YOUR_GITHUB_USERNAME.YOUR_GITHUB_USERNAME)
+
+---
+
+### **Fun Animation**
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=500&color=FF61C7&center=true&vCenter=true&width=435&lines=Hello+World!+I'm+a+Full+Stack+Developer;Passionate+Problem+Solver;Always+Learning+New+Tech)
+
+---
+
+*Note: Replace `YOUR_GITHUB_USERNAME`, `yourportfolio.com`, `yourprofile`, `yourhandle`, and `your-email@example.com` with your actual details.*
+
+This README reflects the futuristic, vibrant theme of your profile image and incorporates professional yet dynamic elements that align with your identity as a full-stack developer!
+
