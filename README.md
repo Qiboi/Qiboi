@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Qiboi&show_icons=true&theme=radical" alt="GitHub Stats" width="50%"/>
-<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Qiboi&theme=radical" alt="GitHub Streak" width="50%"/> -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Qiboi&theme=radical" alt="GitHub Streak" width="50%"/>
 </div>
 
 ---
