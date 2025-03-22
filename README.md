@@ -4,7 +4,7 @@
 ---
 
 ### 🚀 What I’m Currently Up To  
-- 🔨 Building **Projectmu** (A digitalization platform)  
+- 🔨 Building **Personal Projects & Experimenting with New Tech**
 - 📚 Learning **Next.js + MongoDB**  
 - 🎯 Exploring **AI & Automation with Python**
 
