@@ -53,14 +53,13 @@
 
 ---
 
-#### **Visitor Counter**
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Qiboi.Qiboi)
-
----
-
 ### 🔥 Fun Animation  
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=500&color=FF61C7&center=true&vCenter=true&width=435&lines=I'm+a+Full+Stack+Developer;Passionate+Problem+Solver;Always+Learning+New+Tech)  
 
 ---
 
+#### **Visitor Counter**
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Qiboi.Qiboi)
+
+---
 
