@@ -75,21 +75,6 @@ This is the section HR and potential clients look at most.
 | Project Name 2 | The problem it solves and the result | Next.js, MongoDB | [Repo](https://github.com/Qiboi/repo-name) |
 -->
 
-## GitHub Activity
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Qiboi&show_icons=true&hide_border=true&theme=default" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qiboi&layout=compact&hide_border=true&theme=default" alt="Most Used Languages" height="170"/>
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Qiboi&hide_border=true&theme=default" alt="GitHub Streak"/>
-</div>
-
-> These statistics only reflect public repositories and may not represent my full body of work.
-
----
-
 ## Working Principle
 
 > "Any fool can write code that a computer can understand. Good programmers write code that humans can understand."
